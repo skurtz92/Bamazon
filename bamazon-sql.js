@@ -1,10 +1,10 @@
 #CREATE DATABASE Bamazon;
 
 CREATE TABLE Bamazon.Products (
-	ItemID INTEGER(10) AUTO_INCREMENT NOT NULL,
-    ProductName VARCHAR(10),
-    DepartmentName VARCHAR(10),
-    Price INTEGER(10),
+    ItemID INTEGER(10) AUTO_INCREMENT NOT NULL,
+    ProductName VARCHAR(100),
+    DepartmentName VARCHAR(100),
+    Price DECIMAL(5,3),
     StockQuantity INTEGER(10),
     PRIMARY KEY (ItemID));
     

@@ -1,0 +1,22 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "amazon like store front using MySQL",
+  "main": "Bamazoncustomer.js",
+  "scripts": {
+    "test": "'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skurtz92/Bamazon.git"
+  },
+  "keywords": [
+    "sql"
+  ],
+  "author": "Sydney Kurtz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skurtz92/Bamazon/issues"
+  },
+  "homepage": "https://github.com/skurtz92/Bamazon#readme"
+}
